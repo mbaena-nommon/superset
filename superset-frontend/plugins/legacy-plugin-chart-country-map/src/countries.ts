@@ -103,8 +103,10 @@ import usa from './countries/usa.geojson';
 import zambia from './countries/zambia.geojson';
 import venezuela from './countries/venezuela.geojson';
 import vietnam from './countries/vietnam.geojson';
+import palma_municipios from './countries/palma_municipios.geojson';
 
 export const countries = {
+  palma_municipios,
   austria,
   argentina,
   australia,
